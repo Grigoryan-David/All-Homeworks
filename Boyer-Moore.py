@@ -1,4 +1,4 @@
-text = "a pattern matching aimithm"
+text = "a pattern matching almithm"
 pattern =               "mithm"
 
 def BoyerMoore(text, pattern):
